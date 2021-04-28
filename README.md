@@ -1,10 +1,8 @@
                                                                 **CALCULATOR**
-**I DONE THE CALCULATOR PROJECT IN TWO METHODS
-1.USING FLASK
+**I DONE THE CALCULATOR PROJECT 
+USING FLASK
     FILE NAMES - app.py
                  app.html
-2. USING JAVA SCRIPT -main.js
-3.                   template-> app.html
 
 
                  ***** STEPS *****
